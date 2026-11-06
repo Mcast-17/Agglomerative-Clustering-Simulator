@@ -161,12 +161,11 @@ I cluster ottenuti rappresentano la suddivisione finale dei dati in base alla vi
 Agglomerative-Clustering-Simulator/
 │
 ├── dataset.py
-├── distance.py
+├── distanzaEuclidea.py
 ├── clustering.py
-├── dendrogram.py
+├── dendogramma.py
 ├── plot.py
 ├── main.py
-├── requirements.txt
 └── README.md
 └── Figure1.png
 └── Figure2.png
