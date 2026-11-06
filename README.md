@@ -181,7 +181,7 @@ Agglomerative-Clustering-Simulator/
 
 Contiene il dataset iniziale utilizzato per la simulazione.
 
-### distance.py
+### distanzaEuclidea.py
 
 Implementa il calcolo della distanza euclidea.
 
@@ -189,7 +189,7 @@ Implementa il calcolo della distanza euclidea.
 
 Gestisce la logica di aggregazione dei cluster e l'aggiornamento dei centroidi.
 
-### dendrogram.py
+### dendogramma.py
 
 Genera il dendrogramma che rappresenta la storia delle aggregazioni.
 
@@ -207,8 +207,6 @@ Punto di ingresso dell'applicazione.
 
 - Python 3
 - Matplotlib
-- NumPy (opzionale)
-
 ---
 
 ## Output Attesi
